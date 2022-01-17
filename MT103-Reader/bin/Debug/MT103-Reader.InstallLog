@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.InstallLog
+   assemblypath = C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.exe assembly.
+Committing assembly 'C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.InstallLog
+   assemblypath = C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.exe assembly.
+Remove InstallState file because there are no installers.

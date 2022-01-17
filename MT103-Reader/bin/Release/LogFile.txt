@@ -1,0 +1,118 @@
+07/08/2019 8:38:55: Service Started time ticker 1
+07/08/2019 8:38:55: Service Started processTransactions
+07/08/2019 8:38:55: error getting files in source folderCould not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:38:55: processTransactions => error: Could not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:39:55: Service Started time ticker 1
+07/08/2019 8:39:55: Service Started processTransactions
+07/08/2019 8:39:55: error getting files in source folderCould not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:39:55: processTransactions => error: Could not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:40:55: Service Started time ticker 1
+07/08/2019 8:41:15: Service Started processTransactions
+07/08/2019 8:41:15: error getting files in source folderCould not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:41:15: processTransactions => error: Could not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:41:55: Service Started time ticker 1
+07/08/2019 8:41:55: Service Started processTransactions
+07/08/2019 8:41:55: error getting files in source folderCould not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:41:55: processTransactions => error: Could not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:42:55: Service Started time ticker 1
+07/08/2019 8:42:55: Service Started processTransactions
+07/08/2019 8:42:55: error getting files in source folderCould not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:42:55: processTransactions => error: Could not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:43:55: Service Started time ticker 1
+07/08/2019 8:43:55: Service Started processTransactions
+07/08/2019 8:43:55: error getting files in source folderCould not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:43:55: processTransactions => error: Could not find a part of the path 'O:\mt103AckNEW'.
+07/08/2019 8:44:55: Service Started time ticker 1
+07/08/2019 8:44:55: Service Started processTransactions
+07/08/2019 8:44:55: error getting files in source folderThe given path's format is not supported.
+07/08/2019 8:44:55: processTransactions => error: The given path's format is not supported.
+07/08/2019 8:45:55: Service Started time ticker 1
+07/08/2019 8:45:55: Service Started processTransactions
+07/08/2019 8:45:55: error getting files in source folderThe given path's format is not supported.
+07/08/2019 8:45:55: processTransactions => error: The given path's format is not supported.
+07/08/2019 8:47:10: Service Started time ticker 1
+07/08/2019 8:47:10: Service Started processTransactions
+07/08/2019 8:47:11: error getting files in source folderThe network name cannot be found.
+
+07/08/2019 8:47:11: processTransactions => error: The network name cannot be found.
+
+07/08/2019 8:48:10: Service Started time ticker 1
+07/08/2019 8:48:10: Service Started processTransactions
+07/08/2019 8:48:10: error getting files in source folderThe network name cannot be found.
+
+07/08/2019 8:48:10: processTransactions => error: The network name cannot be found.
+
+07/08/2019 8:49:10: Service Started time ticker 1
+07/08/2019 8:49:10: Service Started processTransactions
+07/08/2019 8:49:10: if ( file.LastWriteTime17/05/2019 4:00:17 => lastModified31/12/9999 11:59:59 )
+07/08/2019 8:49:10: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:10: processFiles =>  picked file00077397
+07/08/2019 8:49:10: processFiles =>  moving file00077397
+07/08/2019 8:49:10: if ( file.LastWriteTime10/05/2019 7:39:08 => lastModified17/05/2019 4:00:17 )
+07/08/2019 8:49:10: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:10: processFiles =>  picked file00601583
+07/08/2019 8:49:10: processFiles =>  moving file00601583
+07/08/2019 8:49:10: if ( file.LastWriteTime10/05/2019 7:39:37 => lastModified10/05/2019 7:39:08 )
+07/08/2019 8:49:10: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:10: processFiles =>  picked file00601584
+07/08/2019 8:49:10: processFiles =>  moving file00601584
+07/08/2019 8:49:10: if ( file.LastWriteTime10/05/2019 7:40:01 => lastModified10/05/2019 7:39:37 )
+07/08/2019 8:49:10: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:10: processFiles =>  picked file00601585
+07/08/2019 8:49:10: processFiles =>  moving file00601585
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:40:26 => lastModified10/05/2019 7:40:01 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601586
+07/08/2019 8:49:11: processFiles =>  moving file00601586
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:40:52 => lastModified10/05/2019 7:40:26 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601587
+07/08/2019 8:49:11: processFiles =>  moving file00601587
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:41:18 => lastModified10/05/2019 7:40:52 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601588
+07/08/2019 8:49:11: processFiles =>  moving file00601588
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:41:40 => lastModified10/05/2019 7:41:18 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601589
+07/08/2019 8:49:11: processFiles =>  moving file00601589
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:42:30 => lastModified10/05/2019 7:41:40 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601590
+07/08/2019 8:49:11: processFiles =>  moving file00601590
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:42:57 => lastModified10/05/2019 7:42:30 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601591
+07/08/2019 8:49:11: processFiles =>  moving file00601591
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:43:22 => lastModified10/05/2019 7:42:57 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601592
+07/08/2019 8:49:11: processFiles =>  moving file00601592
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:43:51 => lastModified10/05/2019 7:43:22 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601593
+07/08/2019 8:49:11: processFiles =>  moving file00601593
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:45:04 => lastModified10/05/2019 7:43:51 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601594
+07/08/2019 8:49:11: processFiles =>  moving file00601594
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:45:29 => lastModified10/05/2019 7:45:04 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601595
+07/08/2019 8:49:11: processFiles =>  moving file00601595
+07/08/2019 8:49:11: if ( file.LastWriteTime10/05/2019 7:45:56 => lastModified10/05/2019 7:45:29 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00601596
+07/08/2019 8:49:11: processFiles =>  moving file00601596
+07/08/2019 8:49:11: if ( file.LastWriteTime25/05/2019 12:47:27 => lastModified10/05/2019 7:45:56 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00607788
+07/08/2019 8:49:11: processFiles =>  moving file00607788
+07/08/2019 8:49:11: if ( file.LastWriteTime30/04/2019 6:14:00 => lastModified25/05/2019 12:47:27 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00608576
+07/08/2019 8:49:11: processFiles =>  moving file00608576
+07/08/2019 8:49:11: if ( file.LastWriteTime30/04/2019 6:37:04 => lastModified30/04/2019 6:14:00 )
+07/08/2019 8:49:11: if ( file.LastWriteTime < lastModified ) => success
+07/08/2019 8:49:11: processFiles =>  picked file00608595
+07/08/2019 8:49:11: processFiles =>  moving file00608595

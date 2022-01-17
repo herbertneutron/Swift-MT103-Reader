@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiftReader", "MT103-Reader\SwiftReader.csproj", "{1E5E0550-EA5B-407A-8617-DA6E67A87EF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5E0550-EA5B-407A-8617-DA6E67A87EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5E0550-EA5B-407A-8617-DA6E67A87EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5E0550-EA5B-407A-8617-DA6E67A87EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5E0550-EA5B-407A-8617-DA6E67A87EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84EE6F5F-939B-484B-8172-600F40521918}
+	EndGlobalSection
+EndGlobal

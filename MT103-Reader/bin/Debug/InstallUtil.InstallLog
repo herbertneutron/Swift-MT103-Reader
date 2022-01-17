@@ -1,0 +1,14 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.exe assembly's progress.
+The file is located at C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.exe assembly's progress.
+The file is located at C:\Users\herbert.onuoha\Documents\Visual Studio 2017\Projects\MT103-Reader\MT103-Reader\bin\Debug\MT103-Reader.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
